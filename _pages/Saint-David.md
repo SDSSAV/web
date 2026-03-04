@@ -5,7 +5,7 @@ author_profile: true
 redirect_from: 
   - /saint-david/
 ---
-[&larr; return to Learning Center](https://whancock6.github.io/sdss2/learn/)
+[&larr; return to Learning Center](../learn/)
 
 David (Welsh: *Dewi Sant*; Latin: *Davidus*; c. 500 – c. 589) was a Welsh Christian prelate who served as Bishop of Mynyw during the 6th century.
 
