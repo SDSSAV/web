@@ -13,7 +13,7 @@ title                    : "Cymdeithas Dewi Sant o Savannah"
 title_separator          : "-"
 name                     : &name "The Saint David's Society of Savannah"
 description              : &description "Celebrating Welsh heritage in Savannah since 2013"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://sdssav.github.io/web
+url                      : https://stdavidsavannah.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sdssav.github.io"
 
