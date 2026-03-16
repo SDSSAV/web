@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Cymdeithas Dewi Sant o Savannah"
+title                    : "The Saint David's Society of Savannah"
 title_separator          : "-"
-name                     : &name "The Saint David's Society of Savannah"
+name                     : &name "<center><em><b>Est. 2013</b></em></center>"
 description              : &description "Celebrating Welsh heritage in Savannah since 2013"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://stdavidsavannah.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,7 +25,7 @@ author:
   avatar           : "sds-seal.png"
   name             : "The Saint David's Society of Savannah"
   pronouns         : # example: "she/her"  
-  bio              : "<em>Celebrating, preserving, and promoting Welsh Heritage in Coastal Georgia since 2013</em>"
+  bio              : "<center><em>Celebrating, preserving, and promoting Welsh Heritage in Coastal Georgia</em></center>"
   location         : "Savannah, Georgia"
   employer         : #""
   uri              : # URL
