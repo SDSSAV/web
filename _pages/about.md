@@ -11,6 +11,9 @@ Savannah, the Hostess City of the South, has a long history of heritage societie
 
 What started as an idea between two amateur geneologists has rapidly become **the largest co-ed heritage society in Savannah!**
 
+<center><img src="/images/floral-seal.png"></center>
+
+But why Saint David? 
 
 
 ## Our Annual Events
