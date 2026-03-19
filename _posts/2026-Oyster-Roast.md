@@ -1,7 +1,7 @@
 ---
 title: 'Oyster Roast 2026'
 date: 2026-02-28
-permalink: /posts/2026/02/oyster-roast/
+permalink: /posts/2026/02/blog-post-2/
 tags:
   - cool posts
   - category1
