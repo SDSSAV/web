@@ -20,7 +20,12 @@ The Saint David's Society of Savannah was founded for the following purposes:
 + to promote social intercourse and an altruistic spirit among its Members and between its Members and the community they serve;
 + and to promote, foster, maintain and support Welsh heritage and social welfare through community involvement and appropriate charitable contributions and aid to individuals, groups and organizations which have been approved by the Society for assistance;
 
-
+<table>
+  <tr>
+    <td><img src="/images/david-stained-glass.png" width="350px"></td>
+    <td>Who was Saint David; why name the Society after him?</td>
+  </tr>
+</table>
 ## Our Annual Events
 
 The Society hosts a number of annual events open to our members and their guests:
