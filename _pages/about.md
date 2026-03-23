@@ -9,7 +9,7 @@ redirect_from:
 
 Savannah, the Hostess City of the South, has a long history of heritage societies. Prior to our inception, however, none were dedicated to the appreciation and preservation of Welsh history and culture. 
 
-What started as an idea between two amateur geneologists has rapidly become **the largest co-ed heritage society in Savannah!** <a href="the-society/"><em>Learn more about the formation and history of the Society.</em></a>
+What started as an idea between two amateur genealogists has rapidly become **the largest co-ed heritage society in Savannah!** <a href="the-society/"><em>Learn more about the formation and history of the Society.</em></a>
 
 <center><img src="/images/floral-seal.png"></center>
 
@@ -20,25 +20,35 @@ The Saint David's Society of Savannah was founded for the following purposes:
 + to promote social intercourse and an altruistic spirit among its Members and between its Members and the community they serve;
 + and to promote, foster, maintain and support Welsh heritage and social welfare through community involvement and appropriate charitable contributions and aid to individuals, groups and organizations which have been approved by the Society for assistance;
 
-<table>
+<table style="border:0px solid black" style="border-collapse:collapse">
   <tr>
     <td><img src="/images/david-stained-glass.png" width="350px"></td>
-    <td>Who was Saint David; why name the Society after him?</td>
+    <td style="vertical-align:top">Who was Saint David? Why did we name the Society in honor and memory of him?<br><br>
+    Most people know that: Saint Patrick is the patron saint of Ireland; Saint Andrew is the patron saint of Scotland; Saint George is the patron saint of England. Most people, however, have never heard of the patron saint of Wales, Saint David.<br><br>
+    David's indefatigable missionary work held Wales together as Christian Nation in the 6th century, thereby enabling it to withstand the fierce onslaught of the Saxon invasions. 
+    <a href="Saint-David/"><em>Learn more about the life and work of Saint David.</em></a><br><br>
+    Many of our members, and perhaps yourself, are only here today because of the sacrifices of Saint David. Had the Saxons been able to slaughter more of our Welsh forebears, our ancestors may not have extended the lines from which we descend.</td>
   </tr>
 </table>
+      
 ## Our Annual Events
 
 The Society hosts a number of annual events open to our members and their guests:
 
 ### The Tudor Ball
-Our most resplendent event of the year, held annually on the Saturday closest to August 22nd.
-The date was chosen to commemorate the Battle of Bosworth Field, August 22, 1485, when Kind Henry VII of Wales defeated King Richard III to end the War of the Roses.
+Our most splendid event of the year, the Tudor Ball is held annually on the Saturday closest to August 22nd.
 
-[Black tie event, feast, three toasts to a famous Welsh American, Welsh person, and Saint David]
+The date commemorates the **Battle of Bosworth Field** on August 22, 1485, when King Henry VII of Wales defeated King Richard III and brought the War of the Roses to an end.
+
+Guests enjoy a black-tie evening featuring a five-course feast and three toasts: one honoring a notable Welsh American, one honoring a notable Welsh figure, and one in honor of Saint David.
 
 ### Oyster Roast
-Our celebration of Saint David's Day, held the Saturday closest.
+Our annual celebration of **Saint David's Day**, held the Saturday closest to March 1st.
+
+This casual gathering offers members and their guests an opportunity to celebrate Welsh heritage and fellowship, featuring lunch and fresh oysters.
 
 ### Annual Meeting
-Business meeting. Held June 22. Commemorating the Battle of Bryn Glas, June 22, 1402, when Welsh patriot Owain Glyndwr acheived victory over the Aenglish. 
+Our annual business meeting is held on June 22. 
+
+The date commemorates the **Battle of Bryn Glas** on June 22, 1402, when the Welsh patriot Owain Glyndwr acheived a major victory over the English. 
 
