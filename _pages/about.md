@@ -20,7 +20,7 @@ The Saint David's Society of Savannah was founded for the following purposes:
 + to promote social intercourse and an altruistic spirit among its Members and between its Members and the community they serve;
 + and to promote, foster, maintain and support Welsh heritage and social welfare through community involvement and appropriate charitable contributions and aid to individuals, groups and organizations which have been approved by the Society for assistance;
 
-<img src="/images/david-stained-glass.png" align="left" width="350px">
+<img src="/images/david-stained-glass.png" align="left" margin-right="15px" width="350px">
 Who was Saint David? Why did we name the Society in honor and memory of him?
 
 
