@@ -20,16 +20,18 @@ The Saint David's Society of Savannah was founded for the following purposes:
 + to promote social intercourse and an altruistic spirit among its Members and between its Members and the community they serve;
 + and to promote, foster, maintain and support Welsh heritage and social welfare through community involvement and appropriate charitable contributions and aid to individuals, groups and organizations which have been approved by the Society for assistance;
 
-<table style="border:0px solid black" style="border-collapse:collapse">
-  <tr>
-    <td><img src="/images/david-stained-glass.png" width="350px"></td>
-    <td style="vertical-align:top">Who was Saint David? Why did we name the Society in honor and memory of him?<br><br>
-    Most people know that: Saint Patrick is the patron saint of Ireland; Saint Andrew is the patron saint of Scotland; Saint George is the patron saint of England. Most people, however, have never heard of the patron saint of Wales, Saint David.<br><br>
-    David's indefatigable missionary work held Wales together as Christian Nation in the 6th century, thereby enabling it to withstand the fierce onslaught of the Saxon invasions. 
-    <a href="Saint-David/"><em>Learn more about the life and work of Saint David.</em></a><br><br>
-    Many of our members, and perhaps yourself, are only here today because of the sacrifices of Saint David. Had the Saxons been able to slaughter more of our Welsh forebears, our ancestors may not have extended the lines from which we descend.</td>
-  </tr>
-</table>
+<img src="/images/david-stained-glass.png" align="left" width="350px">
+Who was Saint David? Why did we name the Society in honor and memory of him?
+
+
+Most people know that: Saint Patrick is the patron saint of Ireland; Saint Andrew is the patron saint of Scotland; Saint George is the patron saint of England. Most people, however, have never heard of the patron saint of Wales, Saint David.
+
+
+David's indefatigable missionary work held Wales together as Christian Nation in the 6th century, thereby enabling it to withstand the fierce onslaught of the Saxon invasions. <a href="Saint-David/"><em>Learn more about the life and work of Saint David.</em></a>
+
+
+Many of our members, and perhaps yourself, are only here today because of the sacrifices of Saint David. Had the Saxons been able to slaughter more of our Welsh forebears, our ancestors may not have extended the lines from which we descend.</td>
+
       
 ## Our Annual Events
 
