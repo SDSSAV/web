@@ -13,8 +13,9 @@ redirect_from:
 Savannah, the Hostess City of the South, has a long history of heritage societies. Prior to our inception, however, none were dedicated to the appreciation and preservation of Welsh history and culture. 
 
 What started as an idea between two amateur genealogists has rapidly become **the largest co-ed heritage society in Savannah!** <a href="the-society/"><em>Learn more about the formation and history of the Society.</em></a>
-
+<hr>
 <center><img src="/images/knot.png" width="45px"></center>
+<hr>
 
 The Saint David's Society of Savannah was founded for the following purposes:
 + to perpetuate awareness and appreciation of Welsh history, traditions and culture and the contributions of Wales and the Welsh people to local, regional and national development in the United States and the State of Georgia;
@@ -22,8 +23,9 @@ The Saint David's Society of Savannah was founded for the following purposes:
 + to encourage genealogical research by the Society’s Members;
 + to promote social intercourse and an altruistic spirit among its Members and between its Members and the community they serve;
 + and to promote, foster, maintain and support Welsh heritage and social welfare through community involvement and appropriate charitable contributions and aid to individuals, groups and organizations which have been approved by the Society for assistance;
-
+<hr>
 <center><img src="/images/knot.png" width="45px"></center>
+<hr>
 
 <img src="/images/david-stained-glass.png" align="left" style="margin-right:30px" width="350px">
 Who was Saint David? Why did we name the Society in honor and memory of him?
