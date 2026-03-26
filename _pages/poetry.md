@@ -22,7 +22,7 @@ The Chairing of the Bard (*Cadeirio'r Bardd*) is one of the most important event
 
 Here, we use the term to describe the area of our website dedicated to poems, prayers, and songs of import to our members and to our society.
 
-## Gorsedd Prayer
+<center><h2>Gorsedd Prayer</h2></center>
 <center><em>
 Dro Dduw dy Nawdd;<br>
 Ag yn nawdd, nerth;<br>
@@ -49,7 +49,7 @@ God and all goodness.<br>
 </em></center>
 <center><strong><em>Attributed to Iolo Morganwg, 1792 summer solstace</em></strong></center>
 
-## Breath of Summer
+<center><h2>Breath of Summer</h2></center>
 <center>Creator God<br>
 who breathed this world into being,<br>
 who is discernible within<br>
@@ -68,7 +68,7 @@ sustaining this world,<br>
 your garden.<br>
 <strong><em>Christian prayer</em></strong></center>
 
-## Watchman, Tell Us of the Night
+<center><h2>Watchman, Tell Us of the Night</h2></center>
 <center>
 Watchman! Tell us of the night,<br>
 What its signs of promise are.<br>

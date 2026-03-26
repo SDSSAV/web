@@ -37,7 +37,7 @@ Most people know that: Saint Patrick is the patron saint of Ireland; Saint Andre
 David's indefatigable missionary work held Wales together as Christian Nation in the 6th century, thereby enabling it to withstand the fierce onslaught of the Saxon invasions. <a href="Saint-David/"><em>Learn more about the life and work of Saint David.</em></a>
 
 
-Many of our members, and perhaps yourself, are only here today because of the sacrifices of Saint David. Had the Saxons been able to slaughter more of our Welsh forebears, our ancestors may not have extended the lines from which we descend.</td>
+Many of our members, and perhaps yourself, are only here today because of the sacrifices of Saint David. Had the Saxons been able to slaughter more of our Welsh forebears, our ancestors may not have extended the lines from which we descend.
 
       
 ## Our Annual Events
