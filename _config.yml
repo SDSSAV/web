@@ -22,7 +22,7 @@ repository               : "sdssav.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "sds-seal.png"
+  avatar           : "seal-color.png"
   name             : #"The Saint David's Society of Savannah"
   pronouns         : # example: "she/her"  
   bio              : "<em>Celebrating, preserving, and promoting Welsh Heritage in Coastal Georgia</em>"
