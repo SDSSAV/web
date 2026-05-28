@@ -57,7 +57,6 @@ Our annual celebration of **Saint David's Day**, held the Saturday closest to Ma
 This casual gathering offers members and their guests an opportunity to celebrate Welsh heritage and fellowship, featuring lunch and fresh oysters.
 
 ### Annual Meeting
-Our annual business meeting is held on June 22. 
+Our annual business meeting is held on or near June 22, commemorating the **Battle of Bryn Glas** on June 22, 1402, when the Welsh patriot Owain Glyndwr acheived a major victory over the English. 
 
-The date commemorates the **Battle of Bryn Glas** on June 22, 1402, when the Welsh patriot Owain Glyndwr acheived a major victory over the English. 
-
+The 2026 SDS Business Meeting and a Lowcountry Boil will be held on June 27 at the home of Frank and Julie Hardeman. RSVP is needed no later than Saturday, June 20. More information, as well as a form to RSVP, can be found [here](https://app.smore.com/n/v568k).
