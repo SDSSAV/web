@@ -33,7 +33,7 @@ Many of our members, and perhaps yourself, are only here today because of the sa
 <center><img src="/images/knot.png" width="45px"></center>
 <hr>
 
-## Our Annual Events
+<center><h1>Our Annual Events</h1></center>
 The Society hosts a number of annual events open to our members and their guests:
 
 ### The Tudor Ball
