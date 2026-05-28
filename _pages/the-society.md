@@ -29,3 +29,24 @@ David's indefatigable missionary work held Wales together as Christian Nation in
 
 Many of our members, and perhaps yourself, are only here today because of the sacrifices of Saint David. Had the Saxons been able to slaughter more of our Welsh forebears, our ancestors may not have extended the lines from which we descend.
 
+<hr>
+<center><img src="/images/knot.png" width="45px"></center>
+<hr>
+
+## Our Annual Events
+The Society hosts a number of annual events open to our members and their guests:
+
+### The Tudor Ball
+Our most splendid event of the year, the Tudor Ball is held annually on the Saturday closest to August 22nd.
+
+The date commemorates the **Battle of Bosworth Field** on August 22, 1485, when King Henry VII of Wales defeated King Richard III and brought the War of the Roses to an end.
+
+Guests enjoy a black-tie evening featuring a five-course feast and three toasts: one honoring a notable Welsh American, one honoring a notable Welsh figure, and one in honor of Saint David.
+
+### Oyster Roast
+Our annual celebration of **Saint David's Day**, held the Saturday closest to March 1st.
+
+This casual gathering offers members and their guests an opportunity to celebrate Welsh heritage and fellowship, featuring lunch and fresh oysters.
+
+### Annual Meeting
+Our annual business meeting is held on or near June 22, commemorating the **Battle of Bryn Glas** on June 22, 1402, when the Welsh patriot Owain Glyndwr acheived a major victory over the English. 
