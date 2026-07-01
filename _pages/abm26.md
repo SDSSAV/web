@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: #"ABM 2026"
-permalink: /ABM2026
+permalink: /abm26
 author_profile: true
 ---
 
