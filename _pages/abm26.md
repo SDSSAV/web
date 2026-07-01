@@ -24,8 +24,7 @@ th, td {
 
 <body>
 
-<center><h1>2026 Annual Business Meeting</h1></center>
-<center><h2>and Lowcountry Boil</h2></center>
+<center><h1>2026 Annual Business Meeting<br>and Lowcountry Boil</h2></center>
 
 <table style="width:80%" align="center">
   <tr>
