@@ -18,4 +18,6 @@ What started as an idea between two amateur genealogists has rapidly become **th
 <hr>
 
 <center><h1>Updates and Upcoming Events</h1></center>
-The 2026 SDS Business Meeting and a Lowcountry Boil will be held on June 27 at the home of Frank and Julie Hardeman. RSVP is needed no later than Saturday, June 20. More information, as well as a form to RSVP, can be found [here](https://app.smore.com/n/v568k).
+The 2026 Tudor Ball will be held on August 22nd at the Savannah Golf Club. RSVP is needed no later than August 15, 2026. 
+
+More information can be found [on our website](/posts/2026/07/blog-post-2), as well as the RSVP form, which can be found [here](https://app.smore.com/n/pe0r7)).
