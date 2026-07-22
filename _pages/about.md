@@ -20,4 +20,4 @@ What started as an idea between two amateur genealogists has rapidly become **th
 <center><h1>Updates and Upcoming Events</h1></center>
 The 2026 Tudor Ball will be held on August 22nd at the Savannah Golf Club. RSVP is needed no later than August 15, 2026. 
 
-More information can be found [on our website](/posts/2026/07/blog-post-2), as well as the RSVP form, which can be found [here](https://app.smore.com/n/pe0r7)).
+More information can be found [on our website](/posts/2026/07/tb26), as well as the RSVP form, which can be found [here](https://app.smore.com/n/pe0r7)).
